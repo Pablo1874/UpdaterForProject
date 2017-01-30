@@ -1,4 +1,5 @@
 
 <Version: 1.04>
 /data/faces https://github.com/Pablo1874/UpdaterForProject/tree/master/faces
+img/faces https://github.com/Pablo1874/UpdaterForProject/tree/master/faces
 <End of Version>
