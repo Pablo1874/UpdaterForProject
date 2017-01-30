@@ -1,5 +1,6 @@
 
 <Version: 1.05>
 /data/Map001.json https://raw.githubusercontent.com/Pablo1874/UpdaterForProject/master/Map001.json
-/img/faces/Pro1 https://github.com/Pablo1874/UpdaterForProject/blob/master/faces/Pro1.png
+/img/faces https://github.com/Pablo1874/UpdaterForProject/tree/master/faces
+/img/characters https://github.com/Pablo1874/UpdaterForProject/tree/master/characters
 <End of Version>
