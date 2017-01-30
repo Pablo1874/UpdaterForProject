@@ -1,4 +1,4 @@
 
-<Version: 1.03>
-/data/Actors.json https://raw.githubusercontent.com/Pablo1874/UpdaterForProject/master/Actors.json
+<Version: 1.04>
+/data/faces https://github.com/Pablo1874/UpdaterForProject/tree/master/faces
 <End of Version>
